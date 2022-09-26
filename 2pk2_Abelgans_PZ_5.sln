@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2pk2_Abelgans_PZ_5", "2pk2_Abelgans_PZ_5\2pk2_Abelgans_PZ_5.csproj", "{FCB69827-9134-43F6-9196-521278815BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB69827-9134-43F6-9196-521278815BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB69827-9134-43F6-9196-521278815BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB69827-9134-43F6-9196-521278815BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB69827-9134-43F6-9196-521278815BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF8D1104-1DE2-41C4-BE4C-FFC69E7D636E}
+	EndGlobalSection
+EndGlobal
